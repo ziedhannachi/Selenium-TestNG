@@ -1,0 +1,7 @@
+com\e2eTest\base\TestBase.class
+com\e2eTest\pages\HomePage.class
+com\e2eTest\pages\SignUpPage.class
+com\e2eTest\pages\ContactsPage.class
+com\e2eTest\pages\LoginPage.class
+com\e2eTest\util\TestUtil.class
+com\e2eTest\pages\DealsPage.class
